@@ -1,11 +1,12 @@
  ### Hi there 👋
 
 I am Jeevesh Rawat.
-
 - 💼  &nbsp; Senior Software Engineer at [EPAM Systems](https://www.epam.com/)
 - 🌱  &nbsp; Learning Rust, although wish I could devote more time into it. 😢
 
 A Full Stack Developer with around 7 years of related experience, a wide range of programming languages and utilities. Knowledge of frontend and backend development and collaborative team player with excellent technical abilities. Experience in e-commerce, enterprise and high-performance web technologies.
+
+![][b-gitwar]
 
 ### 📫 &nbsp; How to reach me: 
 [![][b-linkedin]](https://www.linkedin.com/in/jeeveshrawat)
@@ -53,38 +54,40 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ![][b-rust]
 
 <!-- Badge Links -->
-[b-linkedin]: https://raster.shields.io/badge/LinkedIn-jeeveshrawat-informational?style=social&logo=linkedin
-[b-instagram]: https://raster.shields.io/badge/Instagram-@imjeevesh-informational?style=social&logo=instagram
-[b-gmail]: https://raster.shields.io/badge/Gmail-jrawat2009-informational?style=social&logo=gmail
-[b-yahoomail]: https://raster.shields.io/badge/Yahoo-jeeveshrawat-informational?style=social&logo=yahoo!
-[b-website]: https://raster.shields.io/badge/Website-imjeevesh.github.io-informational?style=social&logo=jameson
+[b-gitwar]: https://gitwar.herokuapp.com/badge?username=imjeevesh&style=for-the-badge&color=brightgreen
+[b-linkedin]: https://raster.shields.io/badge/jeeveshrawat-informational?style=social&logo=linkedin
+[b-instagram]: https://raster.shields.io/badge/@imjeevesh-informational?style=social&logo=instagram
+[b-gmail]: https://raster.shields.io/badge/jrawat2009-informational?style=social&logo=gmail
+[b-yahoomail]: https://raster.shields.io/badge/jeeveshrawat-informational?style=social&logo=yahoo!
+[b-website]: https://raster.shields.io/badge/imjeevesh.github.io-informational?style=social&logo=google-chrome
 
-[b-mac]: https://raster.shields.io/badge/OS-Apple-informational?style=for-the-badge&logo=apple
-[b-linux]: https://raster.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux
+[b-mac]: https://raster.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white
+[b-linux]: https://raster.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux
+[b-archlinux]: https://raster.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux
 
-[b-intelli-j]: https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea
-[b-vscode]: https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code
+[b-intelli-j]: https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea
+[b-vscode]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code
 
-[b-typescript]: https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript
-[b-javascript]: https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript
-[b-rust]: https://img.shields.io/badge/Code-Rust-informational?style=for-the-badge&logo=rust
-[b-swift]: https://img.shields.io/badge/Code-Swift-informational?style=for-the-badge&logo=swift
-[b-objective_c]: https://img.shields.io/badge/Code-Objective_C-informational?style=for-the-badge&logo=c
+[b-typescript]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript
+[b-javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[b-rust]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust
+[b-swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift
+[b-objective_c]: https://img.shields.io/badge/Objective_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
 
-[b-angular]: https://img.shields.io/badge/Tech-Angular-informational?style=for-the-badge&logo=angular
-[b-react]: https://img.shields.io/badge/Tech-React-informational?style=for-the-badge&logo=react
-[b-react-native]: https://img.shields.io/badge/Tech-React_Native-informational?style=for-the-badge&logo=react
-[b-node]: https://img.shields.io/badge/Tech-Node.JS-informational?style=for-the-badge&logo=node.js
-[b-express]: https://img.shields.io/badge/Tech-Express.JS-informational?style=for-the-badge&logo=node.js
-[b-rxjs]: https://img.shields.io/badge/Tech-ReactiveX_(RxJS)-informational?style=for-the-badge&logo=reactivex
-[b-ngrx]: https://img.shields.io/badge/Tech-Redux_(@ngrx/store)-informational?style=for-the-badge&logo=redux
-[b-aws]: https://img.shields.io/badge/Tech-AWS-informational?style=for-the-badge&logo=amazon-aws
-[b-docker]: https://img.shields.io/badge/Tech-Docker-informational?style=for-the-badge&logo=docker
-[b-graphql]: https://img.shields.io/badge/Tech-GraphQL-informational?style=for-the-badge&logo=graphql
+[b-angular]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular
+[b-react]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+[b-react-native]: https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black
+[b-node]: https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white
+[b-express]: https://img.shields.io/badge/Express.JS-339933?style=for-the-badge&logo=node.js&logoColor=white
+[b-rxjs]: https://img.shields.io/badge/ReactiveX_(RxJS)-B7178C?style=for-the-badge&logo=reactivex
+[b-ngrx]: https://img.shields.io/badge/Redux_(@ngrx/store)-764ABC?style=for-the-badge&logo=redux
+[b-aws]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws
+[b-docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker
+[b-graphql]: https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql
 
-[b-zsh]: https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash
-[b-bash]: https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash
+[b-zsh]: https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
+[b-bash]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
 
-[b-jenkins]: https://img.shields.io/badge/Tech-Jenkins-informational?style=for-the-badge&logo=jenkins
-[b-webpack]: https://img.shields.io/badge/Tech-Webpack-informational?style=for-the-badge&logo=webpack
-[b-homebrew]: https://img.shields.io/badge/Tech-Homebrew-informational?style=for-the-badge&logo=homebrew
+[b-jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins
+[b-webpack]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
+[b-homebrew]: https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black
