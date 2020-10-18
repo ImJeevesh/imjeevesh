@@ -22,7 +22,6 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ![][b-rxjs]
 ![][b-ngrx]
 ![][b-node]
-![][b-express]
 
 ### ⚡ &nbsp; Technologies and Tools:
 ![][b-typescript]
@@ -35,6 +34,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ![][b-react-native]
 ![][b-ngrx]
 ![][b-node]
+![][b-archlinux]
 ![][b-express]
 ![][b-graphql]
 ![][b-mac]
@@ -62,7 +62,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 [b-website]: https://raster.shields.io/badge/imjeevesh.github.io-informational?style=social&logo=google-chrome
 
 [b-mac]: https://raster.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white
-[b-linux]: https://raster.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux
+[b-linux]: https://raster.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [b-archlinux]: https://raster.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux
 
 [b-intelli-j]: https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea
@@ -71,7 +71,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 [b-typescript]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript
 [b-javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [b-rust]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust
-[b-swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift
+[b-swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
 [b-objective_c]: https://img.shields.io/badge/Objective_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
 
 [b-angular]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular
@@ -82,12 +82,12 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 [b-rxjs]: https://img.shields.io/badge/ReactiveX_(RxJS)-B7178C?style=for-the-badge&logo=reactivex
 [b-ngrx]: https://img.shields.io/badge/Redux_(@ngrx/store)-764ABC?style=for-the-badge&logo=redux
 [b-aws]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws
-[b-docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker
+[b-docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [b-graphql]: https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql
 
 [b-zsh]: https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
 [b-bash]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
 
-[b-jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins
+[b-jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
 [b-webpack]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
 [b-homebrew]: https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black
