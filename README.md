@@ -10,6 +10,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ### 📫 &nbsp; How to reach me: 
 [![][b-linkedin]](https://www.linkedin.com/in/jeeveshrawat)
 [![][b-instagram]](https://www.instagram.com/imjeevesh)
+[![][b-website]](https://imjeevesh.github.io)
 [![][b-gmail]](mailto:jrawat2009@gmail.com)
 [![][b-yahoomail]](mailto:jeeveshrawat@yahoo.com)
 
@@ -56,6 +57,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 [b-instagram]: https://raster.shields.io/badge/Instagram-@imjeevesh-informational?style=social&logo=instagram
 [b-gmail]: https://raster.shields.io/badge/Gmail-jrawat2009-informational?style=social&logo=gmail
 [b-yahoomail]: https://raster.shields.io/badge/Yahoo-jeeveshrawat-informational?style=social&logo=yahoo!
+[b-website]: https://raster.shields.io/badge/Website-imjeevesh.github.io-informational?style=social&logo=jameson
 
 [b-mac]: https://raster.shields.io/badge/OS-Apple-informational?style=for-the-badge&logo=apple
 [b-linux]: https://raster.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux
