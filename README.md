@@ -68,7 +68,7 @@ I am Jeevesh Rawat. A Full Stack Developer with around 7 years of related experi
 [b-angular]: https://img.shields.io/badge/Tech-Angular-informational?style=for-the-badge&logo=angular
 [b-react]: https://img.shields.io/badge/Tech-React-informational?style=for-the-badge&logo=react
 [b-react-native]: https://img.shields.io/badge/Tech-React_Native-informational?style=for-the-badge&logo=react
-[b-node]: https://img.shields.io/badge/Tech-Node-informational?style=for-the-badge&logo=node.js
+[b-node]: https://img.shields.io/badge/Tech-Node.JS-informational?style=for-the-badge&logo=node.js
 [b-express]: https://img.shields.io/badge/Tech-Express.JS-informational?style=for-the-badge&logo=node.js
 [b-rxjs]: https://img.shields.io/badge/Tech-ReactiveX_(RxJS)-informational?style=for-the-badge&logo=reactivex
 [b-ngrx]: https://img.shields.io/badge/Tech-Redux_(@ngrx/store)-informational?style=for-the-badge&logo=redux
