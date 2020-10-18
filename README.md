@@ -1,10 +1,11 @@
  ### Hi there 👋
 
-I am Jeevesh Rawat. A Full Stack Developer with around 7 years of related experience, a wide range of programming languages and utilities. Knowledge of frontend and backend development and collaborative team player with excellent technical abilities. Experience in e-commerce, enterprise and high-performance web technologies.
+I am Jeevesh Rawat.
 
 - 💼  &nbsp; Senior Software Engineer at [EPAM Systems](https://www.epam.com/)
-- 🔭  &nbsp; Currently working on Angular and Node.
 - 🌱  &nbsp; Learning Rust, although wish I could devote more time into it. 😢
+
+A Full Stack Developer with around 7 years of related experience, a wide range of programming languages and utilities. Knowledge of frontend and backend development and collaborative team player with excellent technical abilities. Experience in e-commerce, enterprise and high-performance web technologies.
 
 ### 📫 &nbsp; How to reach me: 
 [![][b-linkedin]](https://www.linkedin.com/in/jeeveshrawat)
