@@ -11,6 +11,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 [![][b-linkedin]](https://www.linkedin.com/in/jeeveshrawat)
 [![][b-instagram]](https://www.instagram.com/imjeevesh)
 [![][b-gmail]](mailto:jrawat2009@gmail.com)
+[![][b-yahoomail]](mailto:jeeveshrawat@yahoo.com)
 
 ### 🔭 &nbsp; I’m currently working on:
 ![][b-angular]
@@ -33,6 +34,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ![][b-ngrx]
 ![][b-node]
 ![][b-express]
+![][b-graphql]
 ![][b-mac]
 ![][b-linux]
 ![][b-intelli-j]
@@ -53,6 +55,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 [b-linkedin]: https://raster.shields.io/badge/LinkedIn-jeeveshrawat-informational?style=social&logo=linkedin
 [b-instagram]: https://raster.shields.io/badge/Instagram-@imjeevesh-informational?style=social&logo=instagram
 [b-gmail]: https://raster.shields.io/badge/Gmail-jrawat2009-informational?style=social&logo=gmail
+[b-yahoomail]: https://raster.shields.io/badge/Yahoo-jeeveshrawat-informational?style=social&logo=yahoo!
 
 [b-mac]: https://raster.shields.io/badge/OS-Apple-informational?style=for-the-badge&logo=apple
 [b-linux]: https://raster.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux
@@ -75,6 +78,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 [b-ngrx]: https://img.shields.io/badge/Tech-Redux_(@ngrx/store)-informational?style=for-the-badge&logo=redux
 [b-aws]: https://img.shields.io/badge/Tech-AWS-informational?style=for-the-badge&logo=amazon-aws
 [b-docker]: https://img.shields.io/badge/Tech-Docker-informational?style=for-the-badge&logo=docker
+[b-graphql]: https://img.shields.io/badge/Tech-GraphQL-informational?style=for-the-badge&logo=graphql
 
 [b-zsh]: https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash
 [b-bash]: https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash
