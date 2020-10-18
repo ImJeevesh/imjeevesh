@@ -6,9 +6,9 @@ I am Jeevesh Rawat
 - 🌱 Learning Rust, although wish I could devote more time into it. 😢
 
 ### 📫 How to reach me: 
-![][b-linkedin]
-![][b-instagram]
-![][b-gmail]
+[![][b-linkedin]](https://www.linkedin.com/in/jeeveshrawat)
+[![][b-instagram]](https://www.instagram.com/imjeevesh)
+[![][b-gmail]](mailto:jrawat2009@gmail.com)
 
 ### 🔭 I’m currently working on:
 ![][b-angular]
@@ -31,9 +31,9 @@ I am Jeevesh Rawat
 ![][b-rust]
 
 <!-- Badge Links -->
-[b-linkedin]: https://raster.shields.io/badge/LinkedIn-jeeveshrawat-informational?style=social&logo=linkedin&&link=https://www.linkedin.com/in/jeeveshrawat
-[b-instagram]: https://raster.shields.io/badge/Instagram-@imjeevesh-informational?style=social&logo=instagram&&link=https://www.instagram.com/imjeevesh
-[b-gmail]: https://raster.shields.io/badge/Gmail-jrawat2009-informational?style=social&logo=gmail&&link=mailto:jrawat2009@gmail.com
+[b-linkedin]: https://raster.shields.io/badge/LinkedIn-jeeveshrawat-informational?style=social&logo=linkedin
+[b-instagram]: https://raster.shields.io/badge/Instagram-@imjeevesh-informational?style=social&logo=instagram
+[b-gmail]: https://raster.shields.io/badge/Gmail-jrawat2009-informational?style=social&logo=gmail
 
 [b-mac]: https://raster.shields.io/badge/OS-Apple-informational?style=for-the-badge&logo=apple&
 [b-linux]: https://raster.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&
