@@ -13,9 +13,11 @@ I am Jeevesh Rawat. A Full Stack Developer with around 7 years of related experi
 
 ### 🔭 &nbsp; I’m currently working on:
 ![][b-angular]
-![][b-node]
+![][b-typescript]
+![][b-javascript]
 ![][b-rxjs]
 ![][b-ngrx]
+![][b-node]
 
 ### ⚡ &nbsp; Technologies and Tools:
 ![][b-typescript]
