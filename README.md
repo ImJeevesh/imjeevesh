@@ -6,8 +6,6 @@ I am Jeevesh Rawat.
 
 A Full Stack Developer with around 7 years of related experience, a wide range of programming languages and utilities. Knowledge of frontend and backend development and collaborative team player with excellent technical abilities. Experience in e-commerce, enterprise and high-performance web technologies.
 
-![][b-gitwar]
-
 ### 📫 &nbsp; How to reach me: 
 [![][b-linkedin]](https://www.linkedin.com/in/jeeveshrawat)
 [![][b-instagram]](https://www.instagram.com/imjeevesh)
@@ -42,12 +40,12 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ![][b-intelli-j]
 ![][b-vscode]
 ![][b-zsh]
-![][b-bash]
 ![][b-jenkins]
 ![][b-webpack]
 ![][b-homebrew]
 ![][b-docker]
 ![][b-aws]
+![][b-bash]
 
 
 ### 🌱 &nbsp; Learning:
@@ -63,7 +61,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 
 [b-mac]: https://raster.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white
 [b-linux]: https://raster.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-[b-archlinux]: https://raster.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux
+[b-archlinux]: https://raster.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white
 
 [b-intelli-j]: https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea
 [b-vscode]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code
