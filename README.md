@@ -29,7 +29,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ![][b-angular]
 ![][b-rxjs]
 ![][b-react]
-![][b-react-native]
+![][b-zsh]
 ![][b-ngrx]
 ![][b-node]
 ![][b-archlinux]
@@ -39,7 +39,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ![][b-linux]
 ![][b-intelli-j]
 ![][b-vscode]
-![][b-zsh]
+![][b-react-native]
 ![][b-jenkins]
 ![][b-webpack]
 ![][b-homebrew]
@@ -52,12 +52,12 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 ![][b-rust]
 
 <!-- Badge Links -->
-[b-gitwar]: https://gitwar.herokuapp.com/badge?username=imjeevesh&style=for-the-badge&color=brightgreen
-[b-linkedin]: https://raster.shields.io/badge/jeeveshrawat-informational?style=social&logo=linkedin
-[b-instagram]: https://raster.shields.io/badge/@imjeevesh-informational?style=social&logo=instagram
-[b-gmail]: https://raster.shields.io/badge/jrawat2009-informational?style=social&logo=gmail
-[b-yahoomail]: https://raster.shields.io/badge/jeeveshrawat-informational?style=social&logo=yahoo!
-[b-website]: https://raster.shields.io/badge/imjeevesh.github.io-informational?style=social&logo=google-chrome
+[b-gitwar]: https://gitwar.herokuapp.com/badge?username=imjeevesh&logo=appveyor&color=brightgreen
+[b-linkedin]: https://raster.shields.io/badge/jeeveshrawat-0077B5?style=flat-square&logo=linkedin
+[b-instagram]: https://raster.shields.io/badge/@imjeevesh-E4405F?style=flat-square&logo=instagram&logoColor=white
+[b-gmail]: https://raster.shields.io/badge/jrawat2009-E4405F?style=flat-square&logo=gmail&logoColor=white
+[b-yahoomail]: https://raster.shields.io/badge/jeeveshrawat-6001D2?style=flat-square&logo=yahoo!
+[b-website]: https://raster.shields.io/badge/imjeevesh.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white
 
 [b-mac]: https://raster.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white
 [b-linux]: https://raster.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
