@@ -14,7 +14,7 @@ A Full Stack Developer with around 7 years of related experience, a wide range o
 [![][b-yahoomail]](mailto:jeeveshrawat@yahoo.com)
 
 ### 🔭 &nbsp; I’m currently working on:
-![][b-angular]
+![][b-react]
 ![][b-typescript]
 ![][b-javascript]
 ![][b-rxjs]
